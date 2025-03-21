@@ -15,8 +15,7 @@
 <br>
 
 ## 🚀 About Me
-I have a great passion for [like play the guitar,train in the gym] and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
-I'm always eager to learn and improve my skills. This is my portfolio where I'll share my projects and progress.  
+My dream is be a great dentist and get money to help the homeless.  
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
@@ -25,9 +24,7 @@ I'm always eager to learn and improve my skills. This is my portfolio where I'll
 
 ‎
 ## 🌱 I'm currently learning
-- Markdown and effective documentation
-- Version control with Git and GitHub
-- [Other technologies/topics]
+- I'm traying learn a second loguange to get more work oportunitys, also im in the school, so when i finish it i will go to the university 
 
 <br>
 
