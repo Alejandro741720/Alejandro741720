@@ -1,4 +1,4 @@
-# Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm [Your Name]
+# Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm [Alejandro]
 
 ```                                                                                     
   /$$$$$$                      /$$ /$$
@@ -15,7 +15,7 @@
 <br>
 
 ## 🚀 About Me
-I have a great passion for [mention your professional interests] and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
+I have a great passion for [like play the guitar,train in the gym] and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
 I'm always eager to learn and improve my skills. This is my portfolio where I'll share my projects and progress.  
 
 > [!IMPORTANT]
